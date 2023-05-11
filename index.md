@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Kristine Moreno and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) State Fullerton and my major is Computer Science.
+This is my home page! My name is Kristine Moreno and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
 
@@ -10,7 +10,7 @@ My GitHub page is [http://github.com/krismore](http://github.com/krismore).
 
 * Lab 5
 
-    Part 1 of Lab 5 was my one of my favorites because I got to write a code that I felt was very practical and useful. By the end of Part 2, my code successfully converted a measurement of volume from milliliters in the metric system, to teaspoons, tablespoons, ounces, or cups. This experience in completing Part 1 of Lab 5 taught me valuable skills in writing practical and useful code to perform complex conversions between different units of measurement.
+    Part 1 of Lab 5 was my one of my favorites because I got to write a code that I felt was very practical and useful. By the end of Part 1, my code successfully converted a measurement of volume from milliliters in the metric system, to teaspoons, tablespoons, ounces, or cups. This experience in completing Part 1 of Lab 5 taught me valuable skills in writing practical and useful code to perform complex conversions between different units of measurement.
 
 * Lab 6
 
