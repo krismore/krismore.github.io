@@ -4,7 +4,7 @@ This is my home page! My name is Kristine Moreno and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/krismore.
+My GitHub page is [http://github.com/krismore](http://github.com/krismore).
 
 ### CPSC 120
 
@@ -14,8 +14,8 @@ My GitHub page is http://github.com/krismore.
 
 * Lab 6
 
-    In part 2 of Lab 6 I got to write a program that calculates the average of numbers given as command-line arguments. This was one of my favorite labs because I got to write a program that stored values in a double or float variable, use floating point arithmetic to compute the average, and properly handle values that are negative or zero. This experience allowed me to improve my programming knowledge and learn more about working with numeric values in a program.
+    In Part 2 of Lab 6 I got to write a program that calculates the average of numbers given as command-line arguments. This was one of my favorite labs because I got to write a program that stored values in a double or float variable, use floating point arithmetic to compute the average, and properly handle values that are negative or zero. This experience allowed me to improve my programming knowledge and learn more about working with numeric values in a program.
 
 * Lab 7
 
-    My favorite part of Lab 7 was Part 2, where I improved a previously written program by implementing functions. Using loops, I was able to handle hands with any number of cards. By the end of Part 2, my code successfully validated the number and contents of the arguments, calculated the total score of the blackjack hand, and printed the result to a standard output.
+    My favorite part of Lab 7 was Part 2, where I improved a previously written Blackjack program by implementing functions. Using loops, I was able to handle hands with any number of cards. By the end of Part 2, my code successfully validated the number and contents of the arguments, calculated the total score of the blackjack hand, and printed the result to a standard output.
