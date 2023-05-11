@@ -14,7 +14,7 @@ My GitHub page is http://github.com/krismore.
 
 * Lab 6
 
-    In part 2 of Lab 6 I got to write a program that calculates the average of numbers given as command-line arguments. This was one of my favorite labs because I got to write a program that stored values in a double or float variable, use floating point arithmetic to compute the average, and properly handle values that are negative or zero.This experience allowed me to improve my programming knowledge and learn more about working with numeric values in a program.
+    In part 2 of Lab 6 I got to write a program that calculates the average of numbers given as command-line arguments. This was one of my favorite labs because I got to write a program that stored values in a double or float variable, use floating point arithmetic to compute the average, and properly handle values that are negative or zero. This experience allowed me to improve my programming knowledge and learn more about working with numeric values in a program.
 
 * Lab 7
 
